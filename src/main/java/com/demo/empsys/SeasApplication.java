@@ -1,4 +1,4 @@
-package com.ups.seas;
+package com.demo.empsys;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

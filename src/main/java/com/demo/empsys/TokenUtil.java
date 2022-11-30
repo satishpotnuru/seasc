@@ -1,5 +1,5 @@
 
-package com.ups.seas;
+package com.demo.empsys;
 
 import com.auth0.jwt.JWT;
 import com.auth0.jwt.JWTCreator;

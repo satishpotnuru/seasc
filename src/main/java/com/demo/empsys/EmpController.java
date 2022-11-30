@@ -1,4 +1,4 @@
-package com.ups.seas;
+package com.demo.empsys;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -17,8 +17,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/seas/api/v1")
-public class SeasController {
-    Logger logger = LoggerFactory.getLogger(SeasController.class);
+public class EmpController {
+    Logger logger = LoggerFactory.getLogger(EmpController.class);
 
     @Autowired
     private SeasService upsService;

@@ -1,4 +1,4 @@
-package com.ups.seas;
+package com.demo.empsys;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
